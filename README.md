@@ -1,0 +1,1 @@
+Ping bot. This was made for a specific Discord server in order to make users able to ping certain roles in certain channels to get help! It can be very helpful for servers where you may not want to allow anyone to ping a role at any time/in any place, but you do want people to be able to ping a role in a specific scenario!
